@@ -1,0 +1,6 @@
+[URLS]
+url = https://www.youtube.com/watch?v=TEjYGMr3AI4
+
+[Path] 
+save_path = /Vocal_Extraction/Results/Vid_Aud/
+vocal_path = /Vocal_Extraction/Results/Vocal/
