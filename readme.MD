@@ -16,7 +16,7 @@ To get started with VoxExtract, follow these steps:
 1. Clone the project repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/VoxExtract.git
+   git clone https://github.com/james988/VoxExtract.git
    ```
 
 2. Navigate to the project directory:
